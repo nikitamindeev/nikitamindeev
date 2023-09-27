@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">Write...</h3>
+<h3 align="center">Please call back later</h3>
+<img align="right" alt="Coding" width="400" src="https://partnerkin.com/storage/files/file_1649939699_14.gif"
 
-- 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me <a href="https://t.me/nmindeev">**nmindeev**</a>
+* 🌱 I’m currently learning **Сython**
+* 📫 How to reach me <a href="https://t.me/nmindeev">**nmindeev**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nmindeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nmindeev" height="30" width="40" /></a>
-<a href="https://instagram.com/nmindeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nmindeev" height="30" width="40" /></a>
+<a href="https://telegramm.com/nmindeev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="nmindeev" height="30" width="40" /></a>
+<a href="https://instagram.com/nmindeev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670254.png" alt="nmindeev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
