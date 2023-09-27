@@ -1,5 +1,5 @@
 <h1 align="center">nmindeev</h1>
-<h3 align="center">Please call back later</h3>
+<h3 align="center">It is important to be able to do simply, but not easier than necessary</h3>
 <img align="right" alt="Coding" width="400" src="https://partnerkin.com/storage/files/file_1649939699_14.gif"
 
 
@@ -9,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://telegramm.com/nmindeev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="nmindeev" height="30" width="40" /></a>
-<a href="https://instagram.com/nmindeev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670254.png" alt="nmindeev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
