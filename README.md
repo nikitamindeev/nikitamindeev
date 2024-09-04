@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://partnerkin.com/storage/files/file_1649939699_14.gif"
 
 
-* 🌱 I’m currently learning **Сython**
+* 🌱 I’m currently learning **Langchain**
 * 📫 How to reach me <a href="https://t.me/nmindeev">**nmindeev**</a>
 
 <h3 align="left">Connect with me:</h3>
